@@ -4,6 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <AssemblyName>mtapi</AssemblyName>
+    <Version>1.0.1.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
