@@ -1,6 +1,6 @@
 # ManicTime API Client
 
-ManicTime API client enables querying ManicTime servers using command line. It supports cloud or on-premises servers. It also serves as a sample app for using [ManicTime Cloud API](https://manictime.uservoice.com/knowledgebase/articles/1961233-cloud-api).
+ManicTime API client enables querying ManicTime servers using command line. It supports cloud or on-premises servers. It also serves as a sample app for using [ManicTime Cloud API](https://docs.manictime.com/server/api/cloud-authentication).
 
 ## Download
 
